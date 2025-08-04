@@ -1,0 +1,32 @@
+[
+  {
+    "CustomerID": "C001",
+    "PredictedChurnProbability": 0.18,
+    "PredictedChurn": "No",
+    "Explanation": "Customer is young with low tenure and consistent payments."
+  },
+  {
+    "CustomerID": "C002",
+    "PredictedChurnProbability": 0.86,
+    "PredictedChurn": "Yes",
+    "Explanation": "High tenure and service charges may lead to dissatisfaction."
+  },
+  {
+    "CustomerID": "C003",
+    "PredictedChurnProbability": 0.22,
+    "PredictedChurn": "No",
+    "Explanation": "Medium tenure and affordable plan suggest satisfaction."
+  },
+  {
+    "CustomerID": "C004",
+    "PredictedChurnProbability": 0.92,
+    "PredictedChurn": "Yes",
+    "Explanation": "New customer with high charges; likely to churn."
+  },
+  {
+    "CustomerID": "C005",
+    "PredictedChurnProbability": 0.14,
+    "PredictedChurn": "No",
+    "Explanation": "Low charges and moderate tenure indicate low risk."
+  }
+]

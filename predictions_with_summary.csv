@@ -1,0 +1,6 @@
+CustomerID,PredictedChurnProbability,PredictedChurn,Explanation
+C001,0.18,No,Customer is young with low tenure and consistent payments.
+C002,0.86,Yes,High tenure and service charges may lead to dissatisfaction.
+C003,0.22,No,Medium tenure and affordable plan suggest satisfaction.
+C004,0.92,Yes,New customer with high charges; likely to churn.
+C005,0.14,No,Low charges and moderate tenure indicate low risk.

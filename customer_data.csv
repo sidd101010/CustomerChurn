@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,Tenure,ServiceType,MonthlyCharges,TotalCharges,Churn
+C001,Female,29,3,Internet,65.5,196.5,No
+C002,Male,42,10,Phone,80.2,802.0,Yes
+C003,Female,35,5,Internet,75.6,378.0,No
+C004,Male,50,1,Internet,95.0,95.0,Yes
+C005,Female,28,7,Phone,55.4,387.8,No
